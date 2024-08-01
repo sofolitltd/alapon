@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619535210439",
+    "project_id": "alapontalk",
+    "storage_bucket": "alapontalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619535210439:android:25719fd42fa024466babe2",
+        "android_client_info": {
+          "package_name": "com.sofolit.alapon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARC-63Z8xmGu2LBwcPcfhkoJ3dawNm5pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
